@@ -1,0 +1,6 @@
+pyaes==1.6.1
+pyfiglet==0.8.post1
+Pyrogram==2.0.61
+PySocks==1.7.1
+PyYAML==6.0
+TgCrypto==1.2.5

@@ -1,0 +1,13 @@
+0: {
+  api_id: 1111111,
+  api_hash: a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1,
+  app_title: Name1
+  }
+
+1: {
+  api_id: 2222222,
+  api_hash: b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2,
+  app_title: Name2
+  }
+
+
